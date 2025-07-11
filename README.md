@@ -1,17 +1,23 @@
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-Hi, I'm Narendra Singh — a Data Analyst skilled in Power BI, SQL, Python, and Excel.  
-This repository contains a collection of my projects, dashboards, and data insights.
+Hi, I'm **Narendra Singh** — a Data Analyst skilled in Power BI, SQL, Python, and Excel.  
+This repository showcases my real-world projects and dashboards.
 
-## 🔧 Tools & Skills
-- Power BI
-- Python (Pandas, Matplotlib)
-- SQL (MySQL)
-- Excel (Dashboards, Pivot Tables)
+---
 
-## 📊 Featured Projects
-- **Hospital Performance Dashboard**
-- **E-commerce Sales Tracker**
-- **Logistics & Delivery Analytics**
+## 🛒 Flipkart Sales Dashboard
 
-Stay tuned for uploads!
+A Power BI dashboard to analyze Flipkart's sales across product categories, customer segments, and regions.
+
+### 🔍 Key Features:
+- Top-performing products and monthly revenue trends  
+- Region-wise sales breakdown  
+- Customer segmentation using slicers  
+- Clean, interactive UI for data-driven insights  
+
+📁 **File:** [Flipkart Sales.pbix](./Flipkart%20Sales.pbix)  
+🛠 **Tools Used:** Power BI, DAX, Excel
+
+---
+
+More dashboards and analytics projects coming soon!
